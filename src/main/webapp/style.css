@@ -1,0 +1,17 @@
+.button-container {
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+#send {
+    margin-left: 15px;
+}
+
+.questionnaire {
+    width: 300px;
+    margin: auto;
+
+}
